@@ -41,16 +41,11 @@ nav a:active {
     font-weight: bold;
 }
 
-.fa {
-    width: 70px;
-    font-size: 70px;
-    float: right;
-}
-
 h1 {
   font-family: garamond;
   color: rgb(49, 77, 114);
   font-size: 30px;
+  margin: 5px;
   }
 
 p {
@@ -129,4 +124,18 @@ h2 {
 
 .button:hover {
     background-color: rgb(49, 77, 114);
+}
+.footer {
+    background-color: rgb(49, 77, 114);
+}
+
+.footer p {
+    color: white;
+    margin: 10px;
+    text-align: center;
+}
+.fa {
+    color: rgb(217, 170, 67);
+    width: 40px;
+    text-decoration: none;
 }
